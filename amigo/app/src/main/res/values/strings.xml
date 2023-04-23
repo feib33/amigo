@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AmiGo</string>
+    <string name="app_logo">AmiGo</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="button_video_chat">button_video_chat</string>
+    <string name="button_alarm">button_alarm</string>
+    <string name="button_location">button_location</string>
+
+    <string name="title_activity_monitoring">Monitoring</string>
+
+</resources>

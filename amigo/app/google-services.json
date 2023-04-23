@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "442719134477",
+    "firebase_url": "https://amigo-fb.firebaseio.com",
+    "project_id": "amigo-fb",
+    "storage_bucket": "amigo-fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442719134477:android:7291694cf10b8d70",
+        "android_client_info": {
+          "package_name": "amigo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442719134477-hesh4b7t1tcfasgn62f4ar7rbm1s9mr7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "amigo.app",
+            "certificate_hash": "51400715e12d57a36c8bc84f08513ac0b10614e6"
+          }
+        },
+        {
+          "client_id": "442719134477-1b358m5attuq2e75a3fbc71klv1q8g3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq9zDbdRXrextb4VvFjgBJF3dDx57QLho"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442719134477-1b358m5attuq2e75a3fbc71klv1q8g3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
